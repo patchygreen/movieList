@@ -20,8 +20,6 @@ class List extends Component {
         loading: false,
       });
     }
-
-    console.log(moviesJSON);
   }
 
   render() {
